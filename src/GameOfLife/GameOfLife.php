@@ -7,5 +7,6 @@ namespace GameOfLife;
  */
 class GameOfLife
 {
+
 }
 
